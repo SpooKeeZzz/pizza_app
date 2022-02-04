@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="cheese">Сырная пицца</string>
+    <string name="pepperoni">Пицца пепперони</string>
+    <string name="ham_n_cheese">Ветчина и сыр</string>
+    <string name="cheese_chicken">Сырный ципленок</string>
+    <string name="margarita">Пицца Маргарита</string>
+    <string name="four_cheese">Пицца 4 сыра</string>
+    <string name="basket">basket</string>
+    <string name="arrow">arrow</string>
+    <string name="buy">Заказать</string>
+</resources>
