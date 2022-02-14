@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">pizza</string>
+    <string name="main_pizzas">Популярные пиццы</string>
+    <string name="shop_cart_btn_DESC">Кнопка корзины</string>
+    <string name="main_logo_text">Додо Пицца</string>
+    <string name="profile_btn_DESC">Кнопка профиля</string>
+    <string name="pizza_img">Фотка пиццы</string>
+    <string name="cheese">Сырная</string>
+    <string name="pepperoni">Пепперони</string>
+    <string name="ham_n_cheese">Ветчина и сыр</string>
+    <string name="double_chicken">Двйоной ципленок</string>
+    <string name="margarita">Маргарита</string>
+    <string name="hawaii">Гавайская</string>
+</resources>
